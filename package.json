@@ -1,0 +1,24 @@
+{
+  "name": "ccfex",
+  "version": "0.0.1",
+  "description": "CcFEx",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosminoance/ccfex.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "futures",
+    "exchange"
+  ],
+  "author": "Cosmin Oance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosminoance/ccfex/issues"
+  },
+  "homepage": "https://github.com/cosminoance/ccfex#readme"
+}
